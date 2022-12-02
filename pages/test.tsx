@@ -9,7 +9,7 @@ export default function MyPage() {
   return (
     <div>
       <h1>Welcome to NextJS with Frontegg</h1>
-      <Link href="/test">Click me</Link>
+      <Link href="/">Click me</Link>
     </div>
   );
 }
